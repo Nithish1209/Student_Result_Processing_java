@@ -1,6 +1,9 @@
 Student Result Processing System
+
 Introduction
+
 The Student Result Processing System is a web-based application designed to manage and process student results efficiently. This system provides a streamlined approach to entering, processing, and displaying student grades, ensuring accuracy and accessibility for both students and faculty.
+
 
 Technologies Used
 Java
